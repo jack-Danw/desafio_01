@@ -52,7 +52,7 @@ No Registro de Clientes você pode registrar clientes que participaram da Pesqui
 ![tuto10](https://user-images.githubusercontent.com/58312218/129586689-6b08bd3f-1bd3-4224-af57-51b743e1d342.png)
 
 
-No relatório de Clientes é possível ver as informações de clientes que participaram da pesquisa (O código do CLiente é adicionado automaticamente sempre que um cliente novo é registrado)
+No relatório de Clientes é possível ver as informações de clientes que participaram da pesquisa (O código do Cliente é adicionado automaticamente sempre que um cliente novo é registrado)
 ![tuto11](https://user-images.githubusercontent.com/58312218/129586700-184db129-7a87-4c39-b5f2-dc2f816a97f2.png)
 
 
